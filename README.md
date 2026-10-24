@@ -5,9 +5,9 @@
 
 ## App have :
  - Inventory form :
-  ![Adding items](https://github.com/Torin1Mars/JobAggregator/blob/main/app/src/main/res/Screenshots/Main.png)
+  ![Adding items](https://github.com/Torin1Mars/InventoryManagmentSystem/blob/main/screnshots/Scr_1.jpg)
  - All vacancies window :
-  ![Main items list](https://github.com/Torin1Mars/JobAggregator/blob/main/app/src/main/res/Screenshots/All%20vacancies.png)
+  ![Main items list](https://github.com/Torin1Mars/InventoryManagmentSystem/blob/main/screnshots/Scr_2.jpg)
 
 ## GitHub Page link:
 https://github.com/Torin1Mars/InventoryManagmentSystem
