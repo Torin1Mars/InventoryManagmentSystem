@@ -1,4 +1,4 @@
-  # Inventory system app 
+  # Inventory system app (Django)
 <ul>
     Web application for inventory managing with using native Django instruments.
 </ul>
